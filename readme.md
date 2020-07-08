@@ -1,0 +1,1 @@
+This is Readme File from git Init via vscode shell
